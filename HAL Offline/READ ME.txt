@@ -1,0 +1,30 @@
+HAL 9000 - offline edition
+==========================
+
+FIRST TIME ONLY (needs the internet once)
+  1. Double-click "Get HAL Brain".
+  2. Press Enter. It downloads HAL's AI brain (about 2 GB) into the "brain" folder.
+     If it gets interrupted, just run it again - it carries on where it stopped.
+
+EVERY TIME AFTER THAT (no internet needed)
+  Double-click "Start HAL". A small black window opens (that's HAL's engine)
+  and HAL appears in your browser. Close the black window to shut HAL down.
+
+You can copy this whole folder (with the brain inside) to a USB stick or another
+Windows computer and it will work there with no internet.
+
+NEEDS
+  - Windows 10 or 11
+  - Chrome or Edge as your web browser (for the AI part)
+  - A graphics card from the last few years. If HAL says your card can't run the
+    standard brain, run "Get HAL Brain" again and type 2 for the compatibility brain.
+
+Without the brain, HAL still works using his built-in personality: singing,
+chess, the pod bay doors, status reports and the memory core all work either way.
+
+THINGS TO TRY
+  - "Sing" (press Stop or Esc to make him stop)
+  - "Open the pod bay doors, HAL"
+  - Chess
+  - Memory core: click modules to pull them out; click them again to push them back in
+  - Tell him your name: "My name is ..."
